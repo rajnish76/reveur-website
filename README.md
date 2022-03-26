@@ -1,4 +1,4 @@
-# reveur-critique-fe
+# reveur-website
 
 Reveur Critique front end.
 
